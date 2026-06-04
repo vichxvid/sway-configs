@@ -1,0 +1,10 @@
+[font]
+size = 13.0
+
+[font.normal]
+family = "DepartureMono Nerd Font"
+style = "Regular"
+
+[colors.primary]
+background = "#000000"
+foreground = "#ffffff"
