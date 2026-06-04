@@ -29,14 +29,14 @@
   // Cpu - Processador
 
     "cpu": {
-        "format": "CPU {usage}%",
+        "format": "CPU: {usage}%",
         "tooltip": false
     },
 
   // Memória RAM 
 
     "memory": {
-    "format": "  {percentage}%",
+    "format": "RAM: {percentage}%",
     "tooltip-format": "{used:0.1f}GB / {total:0.1f}GB"
     },
 
